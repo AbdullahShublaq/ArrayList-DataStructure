@@ -1,5 +1,10 @@
 package datastructure1;
 
+/**
+ *
+ * @author Abdullah Shublaq
+ */
+
 public class DataStructure1 {
 
     public static void main(String[] args) {
